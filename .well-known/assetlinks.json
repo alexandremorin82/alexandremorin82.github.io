@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ca.kaso.cartechasse",
+      "sha256_cert_fingerprints": [
+        "BB:E8:48:EB:05:C6:B7:7E:6B:83:9B:E5:9B:DA:D9:0F:67:A8:C0:62:87:72:B2:26:13:C5:DF:4C:62:F9:A6:03"
+      ]
+    }
+  }
+]
